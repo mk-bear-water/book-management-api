@@ -1,0 +1,7 @@
+alembic
+cryptography
+fastapi
+pydantic-settings
+PyMySQL
+SQLAlchemy>=2.0
+uvicorn[standard]

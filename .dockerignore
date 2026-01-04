@@ -1,0 +1,13 @@
+# Env
+.env
+
+# Git
+.git/
+.gitignore
+
+# OS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
